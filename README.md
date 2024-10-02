@@ -18,6 +18,20 @@
 - **Backend**: Python, FastAPI, Google Gemini API.
 - **Additional Tools**: Latex rendering for expressions, interactive canvas using React hooks.
 
+### Demo:
+- Check out the live demo of AI Calci: [AI Calci Demo (Link to be added)](https://calc-fe.vercel.app/)
+
+**Screenshots**
+ - Dashboard
+https://drive.google.com/file/d/1OVd89kKoaSFMKrf2I1fcvN2yYN-LRFpP/view?usp=sharing
+
+- Equation Conversion
+https://drive.google.com/file/d/198GR7QRgSdurebnQJyeQQj_rp3ShpM6B/view?usp=sharing
+
+- Output
+https://drive.google.com/file/d/1kIvOc-mGItKmVjqQpXee1tfQruKPLxzx/view?usp=sharing
+
+
 ### Getting Started:
 1. Clone the repository.
 2. Install dependencies using `npm install` for the frontend and set up the Python environment for the backend.
