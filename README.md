@@ -19,7 +19,7 @@
 - **Additional Tools**: Latex rendering for expressions, interactive canvas using React hooks.
 
 ### Demo:
-- Check out the live demo of AI Calci: [AI Calci Demo (Link to be added)](https://calc-fe.vercel.app/)
+- Check out the live demo of AI Calci: [AI Calci Demo ](https://calc-fe.vercel.app/)
 
 **Screenshots**
  - Dashboard
